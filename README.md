@@ -7,7 +7,7 @@ This repository contains MySQL practice problems, query solutions for my learnin
 - ALTER - ADD COLUMN
 - ALTER – Modify Column
 - RENAME Table
-- Question 5: TRUNCATE vs DROP
+- TRUNCATE vs DROP
 
 ## Mini Coding 
 Hospital Database 
